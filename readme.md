@@ -10,10 +10,10 @@ Magical Wishes is a delightful web application that lets users create, send, and
 4. **Interactive Animation**: The fireworks and balloons continuously animate, creating a lively and ever-changing visual environment.
 
 ## Demo
-Check out the live demo of the animation in action:
+
 [Magical Wishes Demo](thumbnail.png)
 
-
+Check out the live demo of the animation in action:
 [Live Demo](demo.mp4)
 
 Explore the magic by trying out the demo of the app. Experience how you can send personalized birthday wishes to your loved ones.
