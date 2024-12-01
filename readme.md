@@ -11,7 +11,7 @@ Magical Wishes is a delightful web application that lets users create, send, and
 
 ## Demo
 
-[![Magical Wishes Demo](./thumbnail.png)](./demo.mp4)
+![Magical Wishes Demo Screenshot](demo.mp4)
 
 Explore the magic by trying out the demo of the app. Experience how you can send personalized birthday wishes to your loved ones.
 
